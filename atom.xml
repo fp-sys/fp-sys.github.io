@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fp-sys.github.io</id>
+    <title>悟维</title>
+    <updated>2024-11-27T14:01:06.968Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fp-sys.github.io"/>
+    <link rel="self" href="https://fp-sys.github.io/atom.xml"/>
+    <subtitle>人类的灵感像一个个的点，把点连接起来可能构成一张网，如果这张网上的点继续运动，即人类的灵感继续深入，就能在它的方向形成无数的线，最终就能从一维的世界跃升到二维的世界。悟维希望通过人类的灵感运动最终突破当下的维度困境，使人类整体跃升第四密度。</subtitle>
+    <logo>https://fp-sys.github.io/images/avatar.png</logo>
+    <icon>https://fp-sys.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 悟维</rights>
+    <entry>
+        <title type="html"><![CDATA[OK可以了]]></title>
+        <id>https://fp-sys.github.io/post/sha/</id>
+        <link href="https://fp-sys.github.io/post/sha/">
+        </link>
+        <updated>2024-11-26T15:09:39.000Z</updated>
+        <content type="html"><![CDATA[<p>又打败黑客了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://fp-sys.github.io/post/about/</id>
+        <link href="https://fp-sys.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+</feed>
